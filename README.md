@@ -6,7 +6,7 @@
   
     ![](./ss/login.png)
 
-  - Register
+  - Registrasi
   
     ![](./ss/register.png)
     
