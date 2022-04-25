@@ -1,4 +1,4 @@
-# [Aplikasi Catatan Perjalanan Berbasis Dekstop]
+# [Aplikasi Catatan Perjalanan Berbasis Desktop]
 
 ## Screenshot
  
